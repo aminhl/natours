@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Learning Node, Express & MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminhl/natours.git"
+  },
+  "author": "Amine Hlel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminhl/natours/issues"
+  },
+  "homepage": "https://github.com/aminhl/natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
